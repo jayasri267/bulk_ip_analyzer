@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+requests
+plotly
+scikit-learn
+dnspython
+ipwhois
+pyshark
+fastapi
+uvicorn[standard]
+python-multipart
+click
+python-dotenv
