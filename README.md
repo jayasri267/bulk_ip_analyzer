@@ -21,3 +21,4 @@ Install system deps:
 ```bash
 sudo apt update
 sudo apt install -y tshark
+# Bulk_IP_Analyzer
