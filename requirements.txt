@@ -1,6 +1,7 @@
 streamlit
 pandas
 numpy
+scapy
 requests
 plotly
 scikit-learn
@@ -12,3 +13,11 @@ uvicorn[standard]
 python-multipart
 click
 python-dotenv
+tshark
+geoip2
+sqlalchemy
+sqlite-utils
+passlib
+python-jose
+python-multipart
+
