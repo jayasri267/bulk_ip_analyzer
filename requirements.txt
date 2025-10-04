@@ -20,4 +20,9 @@ sqlite-utils
 passlib
 python-jose
 python-multipart
+matplotlib
+pillow
+streamlit-aggrid
+pydeck
+geopandas
 
